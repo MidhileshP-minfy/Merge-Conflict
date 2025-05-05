@@ -2,7 +2,7 @@
 - Here I created `Merge Conflicts` and resolved them.
 
 ## GITHUB Repository
-
+https://github.com/MidhileshP-minfy/Merge-Conflict/tree/main
 ## Created a `HTML` file and wrote a basic code
 
 ## Created two branches `feature/update-styling` and `feature/add-content`
